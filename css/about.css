@@ -222,6 +222,11 @@ p {
   cursor: pointer;
 }
 
+.container .box button:hover {
+  background: black;
+  color: white;
+}
+
 .bottom-content {
   padding-bottom: 30px;
 }
