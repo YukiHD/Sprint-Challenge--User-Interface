@@ -219,6 +219,7 @@ p {
   border: 1px solid black;
   border-radius: 10px;
   padding: 5px 10px;
+  cursor: pointer;
 }
 
 .bottom-content {
